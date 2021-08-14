@@ -1,0 +1,21 @@
+Bill No : 768
+Name : Ruchik Shah
+Mobile No : 9409056129
+Food Type : Jain
+Dry Manchurian : 3 * 200 = 600
+Manchrian With Noodles : 2 * 200 = 400
+Burmy Soup : 2 * 150 = 300
+Cheesy & Papery Rice : 2 * 285 = 570
+Total Bill : 1870
+----------------------------------------------------------------------------
+Bill No : 515
+Name : DJ
+Mobile No : 7500159918
+Food Type : Regular
+Gravy Manchurian : 2 * 180 = 360
+Hakka Noodles : 2 * 150 = 300
+Hot 'N' Sour Soup : 2 * 125 = 250
+Fried Rice : 2 * 215 = 430
+Total Bill : 1340
+------------------------------------------------------------------------------
+
